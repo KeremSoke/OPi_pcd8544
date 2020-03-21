@@ -20,4 +20,5 @@ sudo apt install python-pip python-dev python-setuptools -y
 Spidev and OPi.GPIO modules must be installed
 
 sudo -H pip install spidev
+
 sudo -H pip install OPi.GPIO
